@@ -19,4 +19,4 @@ Selain source code, juga terdapat laporan tugas dalam format PDF.
 ## ⚙️ Cara Menjalankan Project
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/salsaajriy/WEB.git
+   git clone https://github.com/salsaajriy/praktikum2.git
